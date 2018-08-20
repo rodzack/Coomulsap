@@ -5,22 +5,22 @@
     <title>MINI3</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- JS -->
     <!-- please note: The JavaScript files are loaded in the footer to speed up page construction -->
     <!-- See more here: http://stackoverflow.com/q/2105327/1114320 -->
 
     <!-- CSS -->
-    <link href="<?php echo URL; ?>css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/resetStyles.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/style.css">
 </head>
 <body>
-    <!-- logo, check the CSS file for more info how the logo "image" is shown -->
-    <div class="logo"></div>
-
-    <!-- navigation -->
-    <div class="navigation">
-        <a href="<?php echo URL; ?>">home</a>
-        <a href="<?php echo URL; ?>home/exampleone">home/exampleone</a>
-        <a href="<?php echo URL; ?>home/exampletwo">home/exampletwo</a>
-        <a href="<?php echo URL; ?>songs">songs</a>
+<div class="container-fluid"><!--Se cierra en el footer-->
+  <div class="row">
+    <div class="col-md-2">
+      <p>Menu</p>
     </div>
+    <div class="col-md-2">
+      <p>Logo</p>
+    </div>
+  </div>

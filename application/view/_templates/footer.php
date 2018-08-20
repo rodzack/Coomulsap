@@ -1,9 +1,11 @@
 
-    <div class="footer">
-        Find <a href="https://github.com/panique/mini3">MINI3 on GitHub</a>.
-        If you like the project, support it by <a href="http://tracking.rackspace.com/SH1ES">using Rackspace</a> as your hoster [affiliate link].
+        <div class="row">
+            <div class="col-md-12">
+                <p>Información contacto</p>
+            </div>
+        </div>
     </div>
-
+    <!--Se cierra el container que empieza en el header-->
     <!-- jQuery, loaded in the recommended protocol-less way -->
     <!-- more http://www.paulirish.com/2010/the-protocol-relative-url/ -->
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -14,6 +16,8 @@
     </script>
 
     <!-- our JavaScript -->
-    <script src="<?php echo URL; ?>js/application.js"></script>
+    <script type="text/javascript" src="<?php echo URL;?>js/jquery-3.3.1.slim.min.js"></script>
+    <script type="text/javascript" src="<?php echo URL;?>js/popper.min.js"></script>
+    <script type="text/javascript" src="<?php echo URL;?>js/bootstrap.min.js"></script>
 </body>
 </html>
