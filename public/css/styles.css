@@ -1,0 +1,24 @@
+.banner{
+    background: url(http://localhost/Php/coomulsap/public/img/banners_para_pagina_01.jpg) no-repeat center center ; 
+    background-size:100% auto;
+    height:300px;
+}
+
+/*1080 1366 1024 768 480 y 320*/
+/* Smartphones (portrait) ———– */
+@media only screen and (min-width: 320px) and (max-width: 480px) { 
+    .banner{
+    height:80px;
+    background-color: red;
+    }
+ }
+
+/* Smartphones (landscape) ———– */
+@media only screen
+and (min-width : 321px) and (max-width: 768) and (orientation: landscape){
+    .banner{
+        height:150px;
+        background-color: red;
+        }
+}
+
