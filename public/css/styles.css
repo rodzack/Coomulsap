@@ -1,8 +1,24 @@
+body{
+    background-color: #D5DBDB;
+}
+
 .banner{
     background: url(http://localhost/Php/coomulsap/public/img/banners_para_pagina_01.jpg) no-repeat center center ; 
     background-size:100% auto;
     height:300px;
 }
+
+/**********************Foter*****************************/
+.footer{
+    background-color: white;
+    padding-top: 60px;
+}
+
+.paragraphGray{
+    color:gray;
+}
+/**********************Foter*****************************/
+
 
 /*1080 1366 1024 768 480 y 320*/
 /* Smartphones (portrait) ———– */

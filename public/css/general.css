@@ -7,8 +7,8 @@
     border: 2px solid red;
 }
 
-.inlineElement{ /*Convierte los elementos a elemento de linea*/
-    display:inline
+.inlineElement{ /*Convierte los elementos a elemento de linea y que conserve su margen*/
+    display:inline;
 }
 
 .dropdown-toggle::after { /*Quita la flecha hacia abajo de los DropDOwn de Boostrapt*/
@@ -23,9 +23,14 @@
 }
 
 .cursorPointer{
-    cursor: pointer
+    cursor: pointer;
+}
+
+.greenTitle {
+    color: green;
+    font-weight: 650;
 }
 
 
-/*Header*/
+
 
