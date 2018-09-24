@@ -1,6 +1,5 @@
 <div class="row">
-    <div class="col-md-12 color">
-        <p>Banner Movil</p>
+    <div class="col-md-12">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -29,42 +28,48 @@
             </div>
     </div>
 </div>
-<div class="row banner">
-    <div class="col-md-12">
+<div class="row bannerPricincipal">
+    <div class="col-md-12 banner">
+        <!-- <h1 class="colorWhite titleBanner">NUESTRA <br/> COOPERATIVA</h1> -->
+        <h1 class="colorWhite titleBanner">NUESTRA <br/> COOPERATIVA</h1>
+        <button type="button" class="btn btn-success buttonBanner">Ver mas</button>
     </div>
 </div>
-<div class="row color">
-    <div class="col-md-12 color">
-        <p>Videos</p>
+<div class="row filaTamanio">
+    <div class="col-md-5 videosBanner centerElement">
+        <h1 class="colorWhite titleWeight">Videos</h1>
+    </div>
+    <div class="col-md-7 educacionBanner centerElement">
+        <h1 class="colorWhite titleWeight">Educación</h1>
     </div>
 </div>
-<div class="row color">
-    <div class="col-md-8">
-        <p>Educación</p>
+<div class="row filaTamanio">
+    <div class="col-md-7 epjaBanner centerElement">
+        <h1 class="colorWhite titleWeight">EPJA</h1>
     </div>
-    <div class="col-md-4">
-        <p>EPJA</p>
-    </div>
-</div>
-<div class="row color">
-    <div class="col-md-4">
-        <p>Invetigación</p>
-    </div>
-    <div class="col-md-8">
-        <p>Producion</p>
+    <div class="col-md-5 cemcoBanner centerElement">
+        <h1 class="colorWhite titleWeight">CEMCO</h1>
     </div>
 </div>
-<div class="row color">
-    <div class="col-md-3 color">
-        <p>Fila 1</p>
+<div class="row filaTamanio">
+    <div class="col-md-7 produccionBanner centerElement">
+        <h1 class="colorWhite titleWeight">Producción</h1>
     </div>
-    <div class="col-md-3 color">
-        <p>Fila 2</p>
+    <div class="col-md-5 investigacionBanner centerElement">
+        <h1 class="colorWhite titleWeight">Investigación</h1>
     </div>
-    <div class="col-md-3 color">
-        <p>Fila 3</p>
+</div>
+<div class="row filaTamanioInferior">
+    <div class="col-md-3 pedagogiaBanner centerElement">
+        <h1 class="colorWhite titleWeight">Pedagogía<br/>de la acción<br/>Solidaria </h1>
     </div>
-    <div class="col-md-3 color">
-        <p>Fila 4</p>
+    <div class="col-md-3 talentoBanner centerElement">
+        <h1 class="colorWhite titleWeight">Talento humano</h1>
+    </div>
+    <div class="col-md-3 copasstBanner centerElement">
+        <h1 class="colorWhite titleWeight">Copasst</h1>
+    </div>
+    <div class="col-md-3 asociadosBanner centerElement">
+        <h1 class="colorWhite titleWeight">Asociados</h1>
     </div>
 </div>

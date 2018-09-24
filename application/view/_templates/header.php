@@ -37,3 +37,4 @@
       <img src="<?php echo URL;?>img/LogoCoomulsap.jpg" class="img-responsive" alt="Logo Coomulsap" width="200">
     </div>
   </div>
+  <div class="content">

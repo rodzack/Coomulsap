@@ -1,4 +1,4 @@
-
+</div>
         <div class="row footer">
             <div class="col-md-12">
                 <div class="row">
@@ -34,6 +34,7 @@
                                         <label for="comment">Comentarios:</label>
                                         <textarea class="form-control" rows="5" id="comment"></textarea>
                                     </div>
+                                    <button type="button" class="btn btn-success">Enviar</button>
                                 </div>
                             </form>
                         </div>
