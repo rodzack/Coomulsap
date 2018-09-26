@@ -12,13 +12,12 @@
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/resetStyles.css">
     <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/general.css">
     <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/styles.css">
 </head>
 <body>
-  <div class="container-fluid"><!--Se cierra en el footer-->
+  <div class="container-fluid color2"><!--Se cierra en el footer-->
     <div class="row">
-      <div class="col-2 col-md-2 col-sm-2 col-xs-2 centerElementsWidth centerElementsHeight">
+      <div class="col-2 col-md-2 col-sm-2 col-xs-2 centerHorizontal centerElementsHeight">
         <div class="dropdown">
           <img src="<?php echo URL;?>/img/icons/hamburger.svg"  class= "nav-link dropdown-toggle inlineElement cursorPointer" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" alt=""> 
           <p class="inlineElement">Menú</p>            
@@ -33,8 +32,8 @@
           </div>
       </div>
      </div>
-    <div class="col-10 col-md-10 col-sm-10 col-xs-10 centerElementsWidth">
+    <div class="col-10 col-md-10 col-sm-10 col-xs-10 centerHorizontal">
       <img src="<?php echo URL;?>img/LogoCoomulsap.jpg" class="img-responsive" alt="Logo Coomulsap" width="200">
     </div>
   </div>
-  <div class="content">
+  <div class="row color2">

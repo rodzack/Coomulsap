@@ -1,7 +1,42 @@
+/*Utiles*/
+
+.color{ /*Para probar el modelo de caja*/
+    border: 2px solid red;
+}
+
+.color2{ /*Para probar el modelo de caja*/
+    border: 2px solid green;
+}
+
+.inlineElement{ /*Convierte los elementos a elemento de linea y que conserve su margen*/
+    display:inline;
+}
+
+.dropdown-toggle::after { /*Quita la flecha hacia abajo de los DropDOwn de Boostrapt*/
+    display:none;
+}
+
+/* .centerElementsHeight {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+} */
+
+.cursorPointer{
+    cursor: pointer;
+}
+
+.greenTitle {
+    color: green;
+    font-weight: 650;
+}
+
 body{
     background-color:white;
 }
-.content{
+
+.contenedor{
     padding-bottom: 60px;
     background-color:#D5DBDB;
 }
@@ -19,8 +54,6 @@ body{
 .centerHorizontal{
     text-align: center;
 }
-
-
 
 /**********************Banners Home*****************************/
 .filaTamanio{
