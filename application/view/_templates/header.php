@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>MINI3</title>
+    <title>Coomulsap</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- JS -->
@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo URL;?>css/styles.css">
 </head>
 <body>
-  <div class="container-fluid color2"><!--Se cierra en el footer-->
+  <div class="container-fluid"><!--Se cierra en el footer-->
     <div class="row">
       <div class="col-2 col-md-2 col-sm-2 col-xs-2 centerHorizontal centerElementsHeight">
         <div class="dropdown">
@@ -36,4 +36,4 @@
       <img src="<?php echo URL;?>img/LogoCoomulsap.jpg" class="img-responsive" alt="Logo Coomulsap" width="200">
     </div>
   </div>
-  <div class="row color2">
+  <div class="row">

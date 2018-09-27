@@ -1,42 +1,40 @@
 </div>
-        <div class="row footer">
-            <div class="col-md-12">
+        <div class="row footer paragraphGray">
+            <div class="col-md-12 footerMargin">
                 <div class="row">
-                    <div class="col-md-4 color">
-                        <h4 class="greenTitle">Nuestra empresa</h4>
-                        <p class="paragraphGray">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ex in lacus elementum consequat. Nunc elementum a lectus eget facilisis. Morbi auctor mi sit amet elit ultricies, ut iaculis ante porttitor. Ut nulla libero, sodales quis volutpat vel, fermentum a ligula. Curabitur et lacinia neque, at convallis augue. Duis rhoncus dictum rhoncus. Suspendisse sit amet purus non neque sagittis facilisis. Quisque quis arcu at quam suscipit lobortis. Etiam mattis ipsum vitae velit tincidunt vehicula. Sed blandit vitae nulla eget tincidunt. Mauris turpis ex, porttitor a nisl eu, ullamcorper efficitur ligula. Vivamus suscipit quam pulvinar dui finibus mattis nec consectetur augue. Proin ultricies nec ligula quis dictum. Sed euismod a nunc non lacinia. Nulla nulla ipsum, euismod at aliquam eget, vehicula sed ipsum. In eleifend lacus eros, et elementum est efficitur sit amet.</p>
+                    <div class="col-md-4">
+                        <h2 class="greenTitle footerFirstMargin">Nuestra empresa</h4>
+                        <p class="footerFirstMargin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ex in lacus elementum consequat. Nunc elementum a lectus eget facilisis. Morbi auctor mi sit amet elit ultricies, ut iaculis ante porttitor. Ut nulla libero, sodales quis volutpat vel, fermentum a ligula. Curabitur et lacinia neque, at convallis augue. Duis rhoncus dictum rhoncus. Suspendisse sit amet purus non neque sagittis facilisis. Quisque quis arcu at quam suscipit lobortis. Etiam mattis ipsum vitae velit tincidunt vehicula. Sed blandit vitae nulla eget tincidunt. Mauris turpis ex, porttitor a nisl eu, ullamcorper efficitur ligula.</p>
                     </div>
-                    <div class="col-md-4 color">
-                        <b>Dirección:</b><p class="inlineElement">Calle 42 Sur # 69 A 58 San Antonio de Prado / Medellín</p> <br>
+                    <div class="col-md-4 centerHorizontal footerFontSise">
+                        <b>Dirección: </b><p class="inlineElement">Calle 42 Sur # 69 A 58 <br/>San Antonio de Prado / Medellín</p> <br>
                         <b>PBX:</b> <p class="inlineElement">(574) 444 42 62</p> <br/>
-                        <b>Email</b> <p class="inlineElement">coomulsap@coomulsap.com</p>
+                        <b>Email:</b> <p class="inlineElement">coomulsap@coomulsap.com</p>
                     </div>
                     <div class="col-md-4">
                         <div class="row">
-                            <div class="col-md-2">
+                            <div class="col-md-12">
                                 <b>PQR</b>
-                            </div>
-                            <form>
-                                <div class="col-md-10">
-                                    <div class="form-group row">
-                                        <label for="input-name" class="col-3 col-form-label">Nombre</label>
-                                        <div class="col-9">
-                                            <input class="form-control" type="text" id="input-name">
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <label for="input-email" class="col-3 col-form-label">Email</label>
-                                        <div class="col-9">
-                                            <input class="form-control" type="text" id="input-email">
-                                        </div>
-                                    </div>
-                                    <div class="form-group row">
-                                        <label for="comment">Comentarios:</label>
-                                        <textarea class="form-control" rows="5" id="comment"></textarea>
-                                    </div>
-                                    <button type="button" class="btn btn-success">Enviar</button>
-                                </div>
+                                <hr/>
+                                <form>
+                                <div class="form-group"> <!-- Full Name -->
+                                    <label for="idName" class="control-label">Nombre</label>
+                                    <input type="text" class="form-control" id="idName" name="name" placeholder="Su nombre">
+                                </div>    
+                                <div class="form-group"> <!-- Street 1 -->
+                                    <label for="idEmail" class="control-label">Correo electronico</label>
+                                    <input type="email" class="form-control" id="idEmail" name="email" placeholder="Email">
+                                </div>                                  
+                                <div class="form-group"> <!-- Street 2 -->
+                                    <label for="idMessage" class="control-label">Mensaje</label>
+                                    <textarea  class="form-control" id="idMessage" name="message" placeholder="Mensaje" rows="5"></textarea>
+                                </div>    
+                                <div class="form-group"> <!-- Submit Button -->
+                                    <button type="submit" class="btn btn-primary">Enviar</button>
+                                </div>     
+                                
                             </form>
+                            </div>
                         </div>
                     </div>
                 </div>

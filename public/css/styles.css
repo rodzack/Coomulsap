@@ -143,9 +143,33 @@ body{
     background-color: white;
 }
 
+.footerMargin{
+    margin-top: 30px;
+}
+
 .paragraphGray{
     color:gray;
 }
+
+.footerFirstMargin{
+    margin-left: 30px;
+}
+
+.footerFontSise{
+    font-size: 1.28em;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
 /**********************Foter*****************************/
 
 
