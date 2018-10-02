@@ -1,9 +1,10 @@
 </div>
+<div class="row lineGray"></div>
         <div class="row footer paragraphGray">
             <div class="col-md-12 footerMargin">
                 <div class="row">
                     <div class="col-md-4">
-                        <h2 class="greenTitle footerFirstMargin">Nuestra empresa</h4>
+                        <h2 class="greenTitle footerFirstMargin">Nuestra empresa</h2>
                         <p class="footerFirstMargin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ex in lacus elementum consequat. Nunc elementum a lectus eget facilisis. Morbi auctor mi sit amet elit ultricies, ut iaculis ante porttitor. Ut nulla libero, sodales quis volutpat vel, fermentum a ligula. Curabitur et lacinia neque, at convallis augue. Duis rhoncus dictum rhoncus. Suspendisse sit amet purus non neque sagittis facilisis. Quisque quis arcu at quam suscipit lobortis. Etiam mattis ipsum vitae velit tincidunt vehicula. Sed blandit vitae nulla eget tincidunt. Mauris turpis ex, porttitor a nisl eu, ullamcorper efficitur ligula.</p>
                     </div>
                     <div class="col-md-4 centerHorizontal footerFontSise">

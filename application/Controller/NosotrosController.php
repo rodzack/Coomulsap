@@ -11,7 +11,7 @@
 
 namespace Mini\Controller;
 
-class HomeController
+class NosotrosController
 {
     /**
      * PAGE: index
@@ -21,22 +21,7 @@ class HomeController
     {
         // load views
         require APP . 'view/_templates/header.php';
-        require APP . 'view/home/index.php';
+        require APP . 'view/nosotros/index.php';
         require APP . 'view/_templates/footer.php';
-    }
-
-    /**
-     * PAGE: exampleone
-     * This method handles what happens when you move to http://yourproject/home/exampleone
-     * The camelCase writing is just for better readability. The method name is case-insensitive.
-     */
-    public function home()
-    {
-        // load views
-        require APP . 'view/_templates/header.php';
-        require APP . 'view/home/home.php';
-        require APP . 'view/_templates/footer.php';
-    }
-
-    
+    }    
 }
