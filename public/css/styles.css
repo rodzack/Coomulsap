@@ -1,19 +1,23 @@
 /*Utiles*/
 
-.color{ /*Para probar el modelo de caja*/
+.color {
+    /*Para probar el modelo de caja*/
     border: 2px solid red;
 }
 
-.color2{ /*Para probar el modelo de caja*/
+.color2 {
+    /*Para probar el modelo de caja*/
     border: 2px solid green;
 }
 
-.inlineElement{ /*Convierte los elementos a elemento de linea y que conserve su margen*/
-    display:inline;
+.inlineElement {
+    /*Convierte los elementos a elemento de linea y que conserve su margen*/
+    display: inline;
 }
 
-.dropdown-toggle::after { /*Quita la flecha hacia abajo de los DropDOwn de Boostrapt*/
-    display:none;
+.dropdown-toggle::after {
+    /*Quita la flecha hacia abajo de los DropDOwn de Boostrapt*/
+    display: none;
 }
 
 /* .centerElementsHeight {
@@ -23,7 +27,7 @@
     flex-direction: column;
 } */
 
-.cursorPointer{
+.cursorPointer {
     cursor: pointer;
 }
 
@@ -32,130 +36,130 @@
     /* font-weight: 650; */
 }
 
-body{
-    background-color:white;
+body {
+    background-color: white;
 }
 
-.lineGray{
+.lineGray {
     padding-bottom: 60px;
-    background-color:#D5DBDB;
+    background-color: #D5DBDB;
 }
 
-.colorWhite{
+.colorWhite {
     color: white;
 }
 
-.centerElement{
+.centerElement {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.centerHorizontal{
+.centerHorizontal {
     text-align: center;
 }
 
-.paragraphGray{
-    color:gray;
+.paragraphGray {
+    color: gray;
 }
 
 /**********************Banners Home*****************************/
-.filaTamanio{
-    height:350px;
+.filaTamanio {
+    height: 350px;
 }
 
-.filaTamanioInferior{
-    height:260px;
+.filaTamanioInferior {
+    height: 260px;
 }
 
-.bannerPricincipal{
-    height:350px;
+.bannerPricincipal {
+    height: 350px;
 }
 
-.banner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto01.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.banner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto01.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.videosBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto08.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.videosBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto08.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.educacionBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto10.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.educacionBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto10.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.epjaBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto02.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.epjaBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto02.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.cemcoBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto11.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.cemcoBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto11.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.produccionBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto06.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.produccionBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto06.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.investigacionBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto07.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.investigacionBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto07.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.pedagogiaBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto03.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.pedagogiaBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto03.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.talentoBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto09.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.talentoBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto09.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.copasstBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto05.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.copasstBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto05.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.asociadosBanner{
-    background: url(http://localhost/Php/coomulsap/public/img/Foto12.jpg) no-repeat center center ; 
-    background-size:100% auto;
+.asociadosBanner {
+    background: url(http://localhost/Php/coomulsap/public/img/Foto12.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
-.titleBanner{
+.titleBanner {
     margin-top: 100px;
     margin-left: 100px;
 }
 
-.titleWeight{
+.titleWeight {
     font-weight: 700;
 }
 
-.buttonBanner{
+.buttonBanner {
     margin-left: 190px;
 }
 
 /**********************Banners Home*****************************/
 
 /**********************Foter*****************************/
-.footer{
+.footer {
     background-color: white;
 }
 
-.footerMargin{
+.footerMargin {
     margin-top: 30px;
 }
 
-.footerFirstMargin{
+.footerFirstMargin {
     margin-left: 30px;
 }
 
-.footerFontSise{
+.footerFontSise {
     font-size: 1.28em;
 }
 
@@ -175,50 +179,65 @@ body{
 
 /*1080 1366 1024 768 480 y 320*/
 /* Smartphones (portrait) ———– */
-@media only screen and (min-width: 320px) and (max-width: 480px) { 
-    .bannerPricincipal{
-        height:130px;
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .bannerPricincipal {
+        height: 130px;
     }
- }
+}
 
 
 
 /* Smartphones (landscape) ———– */
-@media only screen
-and (min-width : 321px) and (max-width: 768) and (orientation: landscape){
-    .banner{
-        height:150px;
+@media only screen and (min-width : 321px) and (max-width: 768) and (orientation: landscape) {
+    .banner {
+        height: 150px;
         background-color: red;
-        }
+    }
 }
 
 
 /*Videos*/
-.marginTopVideo{
+.marginTopVideo {
     margin-top: 4%;
 }
 
-.marginBotVideo{
+.marginBotVideo {
     margin-bottom: 8%;
 }
 
 /*Videos*/
 
 /*Nosotros*/
-.marginNosotros{
+.marginNosotros {
     margin-left: 2%;
     margin-right: 4%;
 }
 
-.hrGreen{
+.hrGreen {
     background-color: green;
-    height: 12px; 
+    height: 12px;
     width: 12%;
     text-align: left;
 }
 
-.marginTopNosotros{
+.marginTopNosotros {
     margin-top: 4%;
 }
 
+.marginBottomNosotros {
+    margin-bottom: 4%;
+}
+
 /*Nosotros*/
+
+/*Educacion*/
+.marginTopEducacion {
+    margin-top: 4%;
+}
+
+.fontSizeEducacion {
+    font-size: 28px;
+}
+
+
+/*Educacion*/
