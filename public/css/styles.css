@@ -15,6 +15,11 @@
     display: inline;
 }
 
+.blockElement {
+    /*Convierte los elementos a elemento de bloque*/
+    display: block;
+}
+
 .dropdown-toggle::after {
     /*Quita la flecha hacia abajo de los DropDOwn de Boostrapt*/
     display: none;
@@ -55,6 +60,12 @@ body {
     align-items: center;
 }
 
+.centerVerticalHorizontal {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
 .centerHorizontal {
     text-align: center;
 }
@@ -62,6 +73,8 @@ body {
 .paragraphGray {
     color: gray;
 }
+
+
 
 /**********************Banners Home*****************************/
 .filaTamanio {
@@ -144,6 +157,10 @@ body {
     margin-left: 190px;
 }
 
+.clear {
+    clear: both;
+}
+
 /**********************Banners Home*****************************/
 
 /**********************Foter*****************************/
@@ -174,6 +191,10 @@ body {
     color: #36A0FF;
 }
 
+.footerInfoMargin {
+    margin-top: 25px;
+}
+
 /**********************Foter*****************************/
 
 
@@ -182,6 +203,10 @@ body {
 @media only screen and (min-width: 320px) and (max-width: 480px) {
     .bannerPricincipal {
         height: 130px;
+    }
+
+    .titleBanner {
+        margin-top: 0px;
     }
 }
 

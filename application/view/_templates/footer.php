@@ -8,9 +8,29 @@
                         <p class="footerFirstMargin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ex in lacus elementum consequat. Nunc elementum a lectus eget facilisis. Morbi auctor mi sit amet elit ultricies, ut iaculis ante porttitor. Ut nulla libero, sodales quis volutpat vel, fermentum a ligula. Curabitur et lacinia neque, at convallis augue. Duis rhoncus dictum rhoncus. Suspendisse sit amet purus non neque sagittis facilisis. Quisque quis arcu at quam suscipit lobortis. Etiam mattis ipsum vitae velit tincidunt vehicula. Sed blandit vitae nulla eget tincidunt. Mauris turpis ex, porttitor a nisl eu, ullamcorper efficitur ligula.</p>
                     </div>
                     <div class="col-md-4 centerHorizontal footerFontSise">
-                        <b>Dirección: </b><p class="inlineElement">Calle 42 Sur # 69 A 58 <br/>San Antonio de Prado / Medellín</p> <br>
-                        <b>PBX:</b> <p class="inlineElement">(574) 444 42 62</p> <br/>
-                        <b>Email:</b> <p class="inlineElement">coomulsap@coomulsap.com</p>
+                        <div class="row">
+                            <div class="col-md-12 footerInfoMargin">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <img src="http://localhost/Php/coomulsap/public/img/icons/iconos-02.png" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="col-md-3">
+                                        <img src="http://localhost/Php/coomulsap/public/img/icons/iconos-03.png" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="col-md-3">
+                                        <img src="http://localhost/Php/coomulsap/public/img/icons/iconos-04.png" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="col-md-3">
+                                        <img src="http://localhost/Php/coomulsap/public/img/icons/iconos-05.png" class="img-fluid" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 footerInfoMargin">
+                                <b>Dirección: </b><p class="inlineElement">Calle 42 Sur # 69 A 58 <br/>San Antonio de Prado / Medellín</p> <br>
+                                <b>PBX:</b> <p class="inlineElement">(574) 444 42 62</p> <br/>
+                                <b>Email:</b> <p class="inlineElement">coomulsap@coomulsap.com</p>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-md-4">
                         <div class="row">
