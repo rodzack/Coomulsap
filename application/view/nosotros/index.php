@@ -16,7 +16,9 @@
                 <h2 class="greenTitle">Nuestra historia</h2>
                 <p>En el año de 1988, el 20 de marzo, en el corregimiento de San Antonio de Prado, rincón montañoso ubicado al sur de Medellín, y hoy el corregimiento más poblado del país; un grupo de líderes comunitarios se reunió con el ánimo de constituir una “Cooperativa Especializada de Educación”. El registro y legalización se dio el 01 de Septiembre de 1988.<br/><br/>
                 Durante estos primeros años la situación laboral era bastante complicada y el sacrificio que tenían que hacer los asociados era enorme, por lo que la mayoría no resistieron. En 1988 con tan solo 27 estudiantes se funcionaba precariamente en la escuela Carlos Betancur; también se funcionó en ésta sede en el año de 1989 con la asistencia final de 83 estudiantes. Para el año de 1990, se traslada al Idem San Antonio de Prado...</p>
-                <div class="centerHorizontal"><button type="button" class="btn btn-success centerHorizontal">Seguir leyendo</button></div>
+                <div class="centerHorizontal">
+                    <a href="<?php echo URL;?>/nosotros/historia"><button type="button" class="btn btn-success centerHorizontal">Seguir leyendo</button></a>
+                </div>
                 <div class="hrGreen">
                     <hr/>
                 </div>
@@ -27,7 +29,7 @@
                 <h4 class="greenTitle">Visión</h4>
                 <p>Ser en 2025 una Cooperativa líder en la ejecución de proyectos educativos, empresariales y sociales, en un marco de sostenibilidad articulado por la investigación e integrada por un equipo humano competente; que aporte a la transformación de nuestros asociados y sus familias y que nos permita ampliar nuestra cobertura de servicios.<br/></p>
                 <div class="hrGreen">
-                    <hr/>
+                    <hr/>gi
                 </div>
 
                 <h2 class="greenTitle marginTopNosotros">Nuestros valores</h2>

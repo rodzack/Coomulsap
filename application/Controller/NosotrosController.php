@@ -23,5 +23,13 @@ class NosotrosController
         require APP . 'view/_templates/header.php';
         require APP . 'view/nosotros/index.php';
         require APP . 'view/_templates/footer.php';
-    }    
+    }   
+    
+    public function historia()
+    {
+        // load views
+        require APP . 'view/_templates/header.php';
+        require APP . 'view/nosotros/historia.php';
+        require APP . 'view/_templates/footer.php';
+    }  
 }

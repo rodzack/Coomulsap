@@ -33,7 +33,7 @@
       </div>
      </div>
     <div class="col-10 col-md-10 col-sm-10 col-xs-10 centerHorizontal">
-      <img src="<?php echo URL;?>img/LogoCoomulsap.jpg" class="img-responsive" alt="Logo Coomulsap" width="200">
+    <a href="<?php echo URL;?>"><img src="<?php echo URL;?>img/LogoCoomulsap.jpg" class="img-responsive" alt="Logo Coomulsap" width="200"></a>
     </div>
   </div>
   <div class="row">
