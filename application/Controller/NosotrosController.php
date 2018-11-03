@@ -32,4 +32,20 @@ class NosotrosController
         require APP . 'view/nosotros/historia.php';
         require APP . 'view/_templates/footer.php';
     }  
+
+    public function nuestros_valores()
+    {
+        // load views
+        require APP . 'view/_templates/header.php';
+        require APP . 'view/nosotros/nuestros_valores.php';
+        require APP . 'view/_templates/footer.php';
+    } 
+
+    public function responsabilidad_social()
+    {
+        // load views
+        require APP . 'view/_templates/header.php';
+        require APP . 'view/nosotros/responsabilidad_social.php';
+        require APP . 'view/_templates/footer.php';
+    } 
 }

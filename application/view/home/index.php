@@ -33,20 +33,20 @@
         <div class="col-md-12 banner">
             <!-- <h1 class="colorWhite titleBanner">NUESTRA <br/> COOPERATIVA</h1> -->
             <h1 class="colorWhite titleBanner">NUESTRA <br/> COOPERATIVA</h1>
-            <a href="<?php echo URL;?>/nosotros"><button type="button" class="btn btn-success buttonBanner">Ver mas</button></a>
+            <a href="<?php echo URL;?>nosotros"><button type="button" class="btn btn-success buttonBanner">Ver mas</button></a>
         </div>
     </div>
     <div class="row filaTamanio">
         <div class="col-md-5 videosBanner centerElement">
             <div>
                 <h1 class="colorWhite titleWeight">Videos</h1>
-                <a href="<?php echo URL;?>/videos"><button type="button" class="btn btn-success pruebas">Ver mas</button></a>
+                <a href="<?php echo URL;?>videos"><button type="button" class="btn btn-success pruebas">Ver mas</button></a>
             </div>
         </div>
         <div class="col-md-7 educacionBanner centerElement">
             <div>
                 <h1 class="colorWhite titleWeight">Educación</h1>
-                <a href="<?php echo URL;?>/educacion"><button type="button" class="btn btn-success">Ver mas</button></a>
+                <a href="<?php echo URL;?>educacion"><button type="button" class="btn btn-success">Ver mas</button></a>
             </div>
         </div>
     </div>
@@ -54,7 +54,7 @@
         <div class="col-md-7 epjaBanner centerElement">
             <div>
                 <h1 class="colorWhite titleWeight">EPJA</h1>
-                <a href="<?php echo URL;?>/epja"><button type="button" class="btn btn-success">Ver mas</button></a>
+                <a href="<?php echo URL;?>epja"><button type="button" class="btn btn-success">Ver mas</button></a>
             </div>
         </div>
         <div class="col-md-5 cemcoBanner centerElement">

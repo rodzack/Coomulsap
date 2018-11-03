@@ -1,19 +1,13 @@
 <div class="container-fluid marginBottomNosotros">
-    <div class="row">
-        <div class="col-md-3 paragraphGray">
-            <img src="http://localhost/Php/coomulsap/public/img/Foto01.jpg" width="1500" height="400" alt="">
+    <!-- <div class="row">
+        <div class="col-md-12 paragraphGray">
+            <img src="http://localhost/Php/coomulsap/public/img/Foto01.jpg" class="img-fluid" alt="">
         </div>
-    </div>
+    </div> -->
     <div class="row">
-        <div class="col-md-3 paragraphGray">
-           <h5>Quienes somos</h5>
-           <h5>Misión y visión</h5>
-           <h5>Nuestros valores</h5>
-           <h5>Responsabilidad social</h5>
-        </div>
-        <div class="col-md-9">
+        <div class="col-md-12">
             <div class="marginNosotros paragraphGray">
-                <h2 class="greenTitle">Nuestra historia</h2>
+                <br/><h2 class="greenTitle">Nuestra historia</h2><br/>
                 <p>En el año de 1988, el 20 de marzo, en el corregimiento de San Antonio de Prado, rincón montañoso ubicado al sur de Medellín, y hoy el corregimiento más poblado del país; un grupo de líderes comunitarios se reunió con el ánimo de constituir una “Cooperativa Especializada de Educación”. El registro y legalización se dio el 01 de Septiembre de 1988.<br/><br/>
                 Durante estos primeros años la situación laboral era bastante complicada y el sacrificio que tenían que hacer los asociados era enorme, por lo que la mayoría no resistieron. En 1988 con tan solo 27 estudiantes se funcionaba precariamente en la escuela Carlos Betancur; también se funcionó en ésta sede en el año de 1989 con la asistencia final de 83 estudiantes. Para el año de 1990, se traslada al Idem San Antonio de Prado, con una matrícula inicial de 106 estudiantes. A pesar de que en 1991, en la misma planta física se pasó a 165 estudiantes, las dificultades fueron aumentando, ya que no se contaba con los recursos para pagar a los profesores y esto fue generando mala atmosfera entorno al proceso iniciado, pues algunos empleados del sector oficial tildaban a esta cooperativa de pirata. A esto se sumó el hecho de que los asociados que iniciaron se fueran retirando quedando tan solo catorce y de estos solo algunos cumplían con el pago de aportes sociales.<br/><br/>
                 Como medida alternativa, decidieron transformar la Cooperativa Especializada de Educación, en Cooperativa Multiactiva de San Antonio de Prado, COOMULSAP. Se consideró que articulando otras actividades a la educación era una forma de poderla subsidiar.<br/><br/>

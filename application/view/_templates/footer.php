@@ -73,8 +73,9 @@
     </script>
 
     <!-- our JavaScript -->
-    <script type="text/javascript" src="<?php echo URL;?>js/jquery-3.3.1.slim.min.js"></script>
+    <script type="text/javascript" src="<?php echo URL;?>js/jquery-3.3.1.js"></script>
     <script type="text/javascript" src="<?php echo URL;?>js/popper.min.js"></script>
     <script type="text/javascript" src="<?php echo URL;?>js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="<?php echo URL;?>js/scripts.js"></script>
 </body>
 </html>

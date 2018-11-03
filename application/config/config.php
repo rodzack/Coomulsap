@@ -10,6 +10,7 @@
  * Configuration for: Error reporting
  * Useful to show every little problem during development, but only show hard errors in production
  */
+// define('ENVIRONMENT', 'development');
 define('ENVIRONMENT', 'development');
 
 if (ENVIRONMENT == 'development' || ENVIRONMENT == 'dev') {
